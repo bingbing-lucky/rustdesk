@@ -104,7 +104,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["6v8x52856.oicp.vip"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["10.0.0.10"];
 pub const PUBLIC_RS_PUB_KEY: &str = "lucky-unlock";
 
 pub const RS_PUB_KEY: &str = match option_env!("RS_PUB_KEY") {
