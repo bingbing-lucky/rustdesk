@@ -17,7 +17,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="XingYing"
+        android:label="Bing"
         android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true">
